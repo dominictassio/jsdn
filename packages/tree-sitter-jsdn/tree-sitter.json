@@ -1,0 +1,33 @@
+{
+  "grammars": [
+    {
+      "name": "jsdn",
+      "camelcase": "JSDN",
+      "scope": "source.jsdn",
+      "path": ".",
+      "file-types": null,
+      "injection-regex": "^jsdn$"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "JSDN (JavaScript Data Notation) is a heavyweight data-interchange format.",
+    "authors": [
+      {
+        "name": "Dominic Tassio"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/dominictassio/jsdn"
+    }
+  },
+  "bindings": {
+    "c": true,
+    "go": true,
+    "node": true,
+    "python": true,
+    "rust": true,
+    "swift": true
+  }
+}

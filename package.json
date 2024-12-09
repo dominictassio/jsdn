@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/jsdn"
+  ],
+  "devDependencies": {
+    "tree-sitter-cli": "^0.24.3"
+  }
+}

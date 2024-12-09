@@ -1,0 +1,13 @@
+{
+  "name": "@jsdn/jsdn",
+  "version": "0.0.1-alpha",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Dominic Tassio",
+  "license": "MIT",
+  "description": "JSDN (JavaScript Data Notation) is a heavyweight data-interchange format.",
+  "devDependencies": {
+    "@types/node": "^22.8.1"
+  }
+}
